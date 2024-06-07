@@ -15,34 +15,28 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
     1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
     2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
     3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Desvendando a Ciência de Dados: Um Guia Completo para Iniciantes e Entusiastas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto tem como objetivo criar um eBook abrangente e acessível, desenvolvido inteiramente por inteligência artificial, que serve como um guia completo sobre Ciência de Dados. O eBook é voltado para iniciantes e entusiastas que desejam entender melhor este campo dinâmico e em rápida evolução.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT e Leonardo.ai
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Inicialmente pedi para o ChatGPT redigir todo o ebook.
+Editei usando o LibreOffice e posteriormente fiz a capa utilizando leonardo.ai
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este eBook é um exemplo prático de como a inteligência artificial pode ser utilizada para criar conteúdo educacional de alta qualidade, oferecendo uma nova perspectiva sobre o ensino e aprendizado de temas complexos.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
