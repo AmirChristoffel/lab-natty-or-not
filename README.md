@@ -34,8 +34,9 @@ Editei usando o LibreOffice e posteriormente fiz a capa utilizando leonardo.ai
 
 ## 🚀 Resultados
 Este eBook é um exemplo prático de como a inteligência artificial pode ser utilizada para criar conteúdo educacional de alta qualidade, oferecendo uma nova perspectiva sobre o ensino e aprendizado de temas complexos.
-
+[EbookIA.pdf](https://github.com/user-attachments/files/15743478/EbookIA.pdf)
 ```
+
 
 
 ## Links Interessantes
